@@ -5,11 +5,11 @@ Only 3 conditions exist "Draw", "X wins", "O wins"
 
 
 ### Validation
-Input should be a coordinate number ranging from 1 to 3 seperated by space, e.g. `1 3`
+Input should be a coordinate number ranging from 1 to 3 separated by space, e.g. `1 3`
 
 There will be a validation to handle the input such as `two three` or `1 4` or `2,3`
 
-### Avalailable moves
+### Available moves
 The available coordinates are as follows: 
 
 `1 3` `2 3` `3 3`
