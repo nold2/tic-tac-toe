@@ -21,3 +21,5 @@ The available coordinates are as follows:
 ### How it works
 To run the game just do `python tictactoe.py`
 
+### Requirements
+Worked on python 3.8.5 and python 3.6.8
